@@ -1,0 +1,77 @@
+{
+  "imoveis": [
+    {
+      "id": "apt_001",
+      "nome": "Apartamento 2 Quartos - Centro",
+      "preco": "R$ 1.500,00",
+      "localizacao": "Rua Das Flores, 123 - Centro",
+      "quartos": 2,
+      "banheiros": 1,
+      "area": "65m²",
+      "descricao": "Apartamento aconchegante, bem iluminado, próximo ao comércio. Garagem coberta incluída. Condomínio baixo.",
+      "fotos": [
+        "https://exemplo.com/apt1_1.jpg",
+        "https://exemplo.com/apt1_2.jpg"
+      ],
+      "disponivel": true
+    },
+    {
+      "id": "apt_002",
+      "nome": "Casa 3 Quartos - Bairro Residencial",
+      "preco": "R$ 2.500,00",
+      "localizacao": "Rua Paz, 456 - Bairro Residencial",
+      "quartos": 3,
+      "banheiros": 2,
+      "area": "120m²",
+      "descricao": "Casa espaçosa com quintal, ideal para famílias. Próximo a escolas e parques. Ótima ventilação.",
+      "fotos": [
+        "https://exemplo.com/casa1_1.jpg",
+        "https://exemplo.com/casa1_2.jpg"
+      ],
+      "disponivel": true
+    },
+    {
+      "id": "apt_003",
+      "nome": "Kitnet Mobiliada - Próximo USP",
+      "preco": "R$ 900,00",
+      "localizacao": "Avenida Universitária, 789 - Zona Oeste",
+      "quartos": 1,
+      "banheiros": 1,
+      "area": "35m²",
+      "descricao": "Kitnet compacta, mobiliada, perfeita para estudantes. Piscina e academia no condomínio.",
+      "fotos": [
+        "https://exemplo.com/kit1_1.jpg"
+      ],
+      "disponivel": true
+    }
+  ],
+  "perguntasFrequentes": {
+    "horario_atendimento": "Segunda a sexta: 8h às 18h. Sábado: 8h às 12h. Domingo: fechado.",
+    "como_agendar": "Você pode agendar uma visita respondendo com 'AGENDAR' ou clicando no link que envio. Visitamos em horários agendados.",
+    "aceita_pet": "Aceitamos animais de estimação! Taxa adicional de R$ 100/mês por pet.",
+    "condominio": "Alguns imóveis têm condomínio (apartamentos). Casas não têm. Você pagará aluguel + água/luz + condomínio (se houver).",
+    "contrato": "Contrato padrão de 12 meses. Solicitamos fiador ou depósito caução de 3 meses de aluguel.",
+    "como_pagar": "Pagamento via transferência bancária no dia 5 de cada mês.",
+    "documentos_necessarios": "CPF, RG, comprovante de renda (3 últimos contracheques), comprovante de endereço.",
+    "mudanca_rapida": "Temos imóveis disponíveis para entrada imediata! Pergunte sobre opções sem aguardas."
+  },
+  "horarios_disponiveis": [
+    "Segunda 10:00",
+    "Segunda 14:00",
+    "Terça 10:00",
+    "Terça 15:00",
+    "Quarta 10:00",
+    "Quinta 14:00",
+    "Quinta 16:00",
+    "Sexta 10:00",
+    "Sábado 09:00",
+    "Sábado 11:00"
+  ],
+  "informacoes_empresa": {
+    "nome": "Sua Imobiliária",
+    "telefone_comercial": "(11) 1234-5678",
+    "email": "contato@suaimobiliaria.com.br",
+    "endereco": "Rua Principal, 1000 - São Paulo, SP",
+    "site": "https://www.suaimobiliaria.com.br"
+  }
+}
